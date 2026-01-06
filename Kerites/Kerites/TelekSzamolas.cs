@@ -8,15 +8,13 @@ namespace Kerites
 {
     internal class TelekSzamolas
     {
-        public TelekSzamolas(string fajlBe, string fajlKi)
+        public TelekSzamolas(string fajlBe)
         {
             FajlBe = fajlBe;
-            FajlKi = fajlKi;
             Telkek = Beolvas();
         }
 
         public string FajlBe { get; set; }
-        public string FajlKi { get; set; }
         public List<Telek> Telkek { get; private set; }
 
         //1. Feladat
@@ -36,7 +34,7 @@ namespace Kerites
 
                 Telek telek = new Telek();
                 telek.Oldal = int.Parse(telekReszei[0]);
-                telek.Szelesseg = int.Parse(telekReszei[1]);
+                telek.Hazszam = int.Parse(telekReszei[1]);
                 telek.Kerites = telekReszei[2];
                 
                 telkek.Add(telek);
@@ -45,9 +43,30 @@ namespace Kerites
             return telkek;
         }
 
+        //2. feladat
         public int TelkekSzama()
         {
             return Telkek.Count;
+        }
+
+        //3. feladat
+        public Telek UtolsoTelek()
+        {
+           return Telkek[Telkek.Count - 1];
+        }
+
+        //4.feladat
+        public int HazszamMellett()
+        {
+            for(int i = 0; i < Telkek.Count; i++)
+            {
+                if (Telkek[i].Oldal == 1 && Telkek[i].Kerites == Telkek[i + 1].Kerites)
+                {   
+                     return i+1;
+                }
+                
+            }
+            return -1;
         }
     }
 }

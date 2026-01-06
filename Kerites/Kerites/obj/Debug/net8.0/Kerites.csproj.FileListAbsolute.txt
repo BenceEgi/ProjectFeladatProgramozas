@@ -13,3 +13,4 @@ H:\0\ProjectFeladatProgramozas\Kerites\Kerites\obj\Debug\net8.0\refint\Kerites.d
 H:\0\ProjectFeladatProgramozas\Kerites\Kerites\obj\Debug\net8.0\Kerites.pdb
 H:\0\ProjectFeladatProgramozas\Kerites\Kerites\obj\Debug\net8.0\Kerites.genruntimeconfig.cache
 H:\0\ProjectFeladatProgramozas\Kerites\Kerites\obj\Debug\net8.0\ref\Kerites.dll
+H:\0\ProjectFeladatProgramozas\Kerites\Kerites\obj\Debug\net8.0\Kerites.sourcelink.json
