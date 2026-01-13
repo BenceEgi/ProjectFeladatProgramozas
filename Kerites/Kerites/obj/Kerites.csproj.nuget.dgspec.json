@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\0\\ProjectFeladatProgramozas\\Kerites\\Kerites\\Kerites.csproj": {}
+    "H:\\C#\\ProjectFeladatProgramozas\\Kerites\\Kerites\\Kerites.csproj": {}
   },
   "projects": {
-    "H:\\0\\ProjectFeladatProgramozas\\Kerites\\Kerites\\Kerites.csproj": {
+    "H:\\C#\\ProjectFeladatProgramozas\\Kerites\\Kerites\\Kerites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\0\\ProjectFeladatProgramozas\\Kerites\\Kerites\\Kerites.csproj",
+        "projectUniqueName": "H:\\C#\\ProjectFeladatProgramozas\\Kerites\\Kerites\\Kerites.csproj",
         "projectName": "Kerites",
-        "projectPath": "H:\\0\\ProjectFeladatProgramozas\\Kerites\\Kerites\\Kerites.csproj",
-        "packagesPath": "C:\\Users\\Kren.Bence\\.nuget\\packages\\",
-        "outputPath": "H:\\0\\ProjectFeladatProgramozas\\Kerites\\Kerites\\obj\\",
+        "projectPath": "H:\\C#\\ProjectFeladatProgramozas\\Kerites\\Kerites\\Kerites.csproj",
+        "packagesPath": "C:\\Users\\matus.bence\\.nuget\\packages\\",
+        "outputPath": "H:\\C#\\ProjectFeladatProgramozas\\Kerites\\Kerites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kren.Bence\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matus.bence\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
