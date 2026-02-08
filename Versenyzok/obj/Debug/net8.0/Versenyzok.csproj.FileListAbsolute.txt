@@ -1,0 +1,15 @@
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/bin/Debug/net8.0/Versenyzok
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/bin/Debug/net8.0/Versenyzok.deps.json
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/bin/Debug/net8.0/Versenyzok.runtimeconfig.json
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/bin/Debug/net8.0/Versenyzok.dll
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/bin/Debug/net8.0/Versenyzok.pdb
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/obj/Debug/net8.0/Versenyzok.GeneratedMSBuildEditorConfig.editorconfig
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/obj/Debug/net8.0/Versenyzok.AssemblyInfoInputs.cache
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/obj/Debug/net8.0/Versenyzok.AssemblyInfo.cs
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/obj/Debug/net8.0/Versenyzok.csproj.CoreCompileInputs.cache
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/obj/Debug/net8.0/Versenyzok.dll
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/obj/Debug/net8.0/refint/Versenyzok.dll
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/obj/Debug/net8.0/Versenyzok.pdb
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/obj/Debug/net8.0/Versenyzok.genruntimeconfig.cache
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/obj/Debug/net8.0/ref/Versenyzok.dll
+/home/bence/Documents/Funs/Versenyzok/Versenyzok/bin/Debug/net8.0/pilotak.csv
